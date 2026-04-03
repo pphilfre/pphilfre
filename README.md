@@ -1,4 +1,4 @@
-# Freddie Philpot
+# Hi 👋 I'm Freddie
 
 > Student technologist focused on cloud, Linux, and cybersecurity.
 
@@ -17,71 +17,57 @@ I build secure systems, document what I learn, and explore security through home
 
 ## Projects
 
-### Home Lab Infrastructure
+### [Home Lab Infrastructure](https://github.com/philfreddie/projects)
 Proxmox-based virtualisation environment with:
 - OPNsense firewall & VLAN segmentation  
-- Suricata IDS for network monitoring  
+- Suricata IDS  
 - Raspberry Pi services & self-hosted stack  
 - Traefik, Portainer, Vaultwarden, Gitea  
 
-### Markup
+### [Markup](https://github.com/pphilfre/markup)
 Keyboard-first markdown workspace featuring:
-- CodeMirror 6 editor  
+- CodeMirror 6  
 - Mermaid & KaTeX support  
-- Backlink graph visualisation  
-- Convex cloud sync  
-- Packaged as a desktop app with Tauri  
+- Backlink graph views  
+- Convex sync + Tauri desktop app  
 
-### CTF Writeups
-Clear, practical walkthroughs of security challenges and methodologies.
+### [CTF Writeups](https://freddiephilpot.dev/projects/ctf)
+Practical walkthroughs of security challenges and methodologies.
 
 ---
 
 ## Skills
 
 **Systems**  
-Linux (Ubuntu, Debian), Windows Server, Active Directory, Group Policy  
+Linux (Ubuntu, Debian), Windows Server, Active Directory  
 
 **Security & Networking**  
-WireGuard, Tailscale, DNS administration, CCNA-level networking, identity-based access control  
+WireGuard, Tailscale, DNS, CCNA-level networking, identity-based access  
 
-**Development & Infrastructure**  
+**Development & Infra**  
 Python, PowerShell, Git, Docker, Nginx, Traefik  
 TypeScript, React, Next.js, Astro  
 
 ---
 
-## Certifications & Experience
+## Experience & Certifications
 
-- Cisco: Endpoint Security, Network Defense, Intro to IoT, Intro to Cybersecurity  
-- Forage Simulations:  
-  - Tata – IAM & security strategy  
-  - Datacom – SOC operations  
-  - AIG – Incident response & ransomware  
-- Enterprise experience: cybersecurity & software development placement at Tesco Head Office  
-
----
-
-## Writing & Research
-
-- Homelab architecture & self-hosting  
-- Oracle Cloud free-tier deployments  
-- Pi-hole DNS filtering  
-- Tailscale VPN & Twingate zero-trust access  
-- Enterprise cybersecurity insights  
+- Cisco: [Endpoint Security, Network Defense, Intro to Cybersecurity](https://www.credly.com/users/freddie-philpot/badges#credly)
+- Forage: [Tata (IAM), Datacom (SOC), AIG (Incident Response)](https://www.linkedin.com/in/freddiephilpot/)
+- Placement: [Cybersecurity & software development at Tesco](https://freddiephilpot.dev/certifications)  
 
 ---
 
 ## Current Goal
 
-Working toward a technology degree apprenticeship (financial services),  
-with a long-term focus on cybersecurity and infrastructure leadership.
+Technology degree apprenticeship (financial services),  
+focused on cybersecurity and infrastructure.
 
 ---
 
 ## Connect
 
-- 🌐 Portfolio — https://freddiephilpot.dev  
-- 💻 GitHub — https://github.com/pphilfre  
-- 🔗 LinkedIn — https://www.linkedin.com/in/freddiephilpot/  
-- 📧 Email — contact@freddiephilpot.dev  
+- 🌐 https://freddiephilpot.dev  
+- 💻 https://github.com/pphilfre  
+- 🔗 https://linkedin.com/in/freddiephilpot  
+- 📧 contact@freddiephilpot.dev  
