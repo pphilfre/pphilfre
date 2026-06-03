@@ -60,8 +60,7 @@ TypeScript, React, Next.js, Astro
 
 ## Current Goal
 
-Technology degree apprenticeship (financial services),  
-focused on cybersecurity and infrastructure.
+Technology degree apprenticeship (financial services), focused on cybersecurity and infrastructure.
 
 ---
 
